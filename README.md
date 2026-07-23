@@ -61,18 +61,14 @@ AETHER includes a powerful browser-based management panel for:
 - Restart & Recovery
 - Configuration Management
 
----
 
 📥 Installation
 
 Run the following command:
-
-bash <(curl -fsSL https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh)
+---bash <(curl -fsSL https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh)---
 
 or
-
-wget -qO- https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh | bash
-
+---wget -qO- https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh | bash
 ---
 
 🖥 Requirements
