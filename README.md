@@ -63,13 +63,19 @@ AETHER includes a powerful browser-based management panel for:
 
 
 📥 Installation
+# 📥 Installation
 
 Run the following command:
----bash <(curl -fsSL https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh)---
 
-or
----wget -qO- https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh | bash
----
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh)
+```
+
+Or
+
+```bash
+wget -qO- https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh | bash
+```
 
 🖥 Requirements
 
