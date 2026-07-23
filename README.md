@@ -98,6 +98,18 @@ wget -qO- https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/mai
 ---
 
 ❤️ Support
+---
+
+<p align="center">
+
+## 🤖 Crafted with Artificial Intelligence
+
+AETHER ELITE TUNNEL FRAMEWORK was designed and developed with the assistance of Artificial Intelligence, combining modern engineering practices with intelligent automation to deliver a fast, stable, and production-ready tunneling solution.
+
+**Made with ❤️ + AI**
+
+</p>
+
 
 If this project helps you, please consider giving it a ⭐ on GitHub.
 
@@ -110,3 +122,5 @@ Every Star motivates further development and new features.
 Engineered for Speed. Crafted for Stability. Built for Professionals.
 
 </p>
+
+
