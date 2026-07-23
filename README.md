@@ -1,75 +1,85 @@
 🚀 AETHER ELITE TUNNEL FRAMEWORK V23.6
 
-«Next-Generation Linux Tunnel Framework
-High-performance, multi-protocol tunneling platform built for speed, stability, flexibility, and modern networking environments.»
+<p align="center">The Ultimate Multi-Protocol Linux Tunneling Framework
+
+High-performance • Ultra-Low Latency • Production Ready • Web Managed
+
+</p>---
+
+⚡ Overview
+
+AETHER ELITE TUNNEL FRAMEWORK is a next-generation Linux tunneling platform designed to provide maximum performance, exceptional stability, and flexible deployment across a wide range of network environments.
+
+Whether you're building high-speed inter-server connections, bypassing unstable routing, or deploying production-grade tunnel infrastructures, AETHER delivers a powerful all-in-one solution with an intuitive web interface and automated management tools.
 
 ---
 
-✨ Features
+✨ Key Features
 
-- 🚀 12 High-Performance Tunnel Protocols
-- 🌍 Interactive Installation Wizard
+- 🚀 12 Built-in High Performance Tunnel Engines
 - 🌐 Modern Web Management Panel
-- ⚡ Lightweight & Optimized Architecture
-- 🔒 Secure Communication & Encrypted Transport
-- 📊 Real-Time Tunnel Monitoring
-- 🔄 Automatic Service Management (systemd)
-- 🛠️ One-Click Installation & Removal
-- 📦 Easy Tunnel Deployment
-- 🎯 Optimized for Low Latency & High Throughput
-- 💾 Minimal CPU & Memory Usage
+- ⚡ Ultra Lightweight & Optimized
+- 📊 Live Tunnel Monitoring
+- 🔄 Automatic Service Recovery
+- 🛠 One-Click Install / Remove
+- 🎯 Low Latency Optimization
+- 💾 Minimal CPU & RAM Usage
+- 🔐 Secure & Reliable Networking
+- 🔥 Production Ready
 - 🐧 Fully Tested on Ubuntu 24.04 LTS
-- 🔥 Designed for Production Environments
+- 📦 Interactive Installation Wizard
 
 ---
 
-🌐 Supported Tunnel Protocols
+🌍 Supported Tunnel Protocols
 
-#| Protocol| Description
-1| 🚀 Elite Multiplex Tunnel| Socat-Based Anti-DPI Multiplex Tunnel
-2| 🌐 Native GRE Tunnel| Layer-3 Kernel GRE Tunnel
-3| ⚡ Native IPIP Tunnel| Ultra-Light Kernel IPIP Tunnel
-4| 🛰️ Hans ICMP Tunnel| ICMP (Ping) Transport Tunnel
-5| 🌐 HTTP Encapsulated Tunnel| HTTP Masking & Encapsulation
-6| 🔒 Shadowsocks Tunnel| AEAD Encrypted Relay
-7| ⚛️ Quantum-MAX Tunnel| QUIC High-Speed UDP Transport
-8| 🛡️ WebSocket Stealth Tunnel| No-Ping Stealth CDN Protocol
-9| ⚡ Quantum-gRPC Stealth Tunnel| Layer-7 CDN Optimized Transport
-10| 🚨 Direct UDP Hardened Tunnel| High-Performance Direct UDP Engine
-11| 💥 KCP Ultra Outage Tunnel| Anti-Loss KCP Acceleration
-12| 🚀 GOST Turbo Tunnel| Dual TCP/UDP Low-Latency Engine
-
----
-
-⚙️ Management Features
-
-- ✅ Create Tunnel
-- ✅ Delete Tunnel
-- ✅ Restart Tunnel
-- ✅ Start / Stop Services
-- ✅ View Tunnel Status
-- ✅ Automatic Service Recovery
-- ✅ Built-in Web Control Panel
-- ✅ Simple Interactive Menu
-- ✅ Systemd Integration
+Protocol| Description
+🚀 Elite Multiplex Tunnel| Socat Multiplex Engine • Anti-DPI Recommended
+🌐 Native GRE Tunnel| Linux Layer-3 GRE Tunnel
+⚡ Native IPIP Tunnel| Ultra-Light Kernel IPIP Tunnel
+🛰️ Hans ICMP Tunnel| ICMP (Ping) Based Transport
+🌐 HTTP Encapsulated Tunnel| HTTP Masking & Encapsulation
+🔒 Shadowsocks Tunnel| AEAD Encrypted Relay
+⚛️ Q-MAX Tunnel| QUIC High-Speed UDP Engine
+🛡️ WebSocket Stealth Tunnel| CDN Friendly • No-Ping Transport
+⚡ Q-gRPC Tunnel| Layer-7 gRPC CDN Transport
+🚨 Direct UDP Hardened Tunnel| Optimized Native UDP Engine
+💥 KCP Ultra Tunnel| Anti-Loss & Extreme Outage Recovery
+🚀 GOST Turbo Tunnel| Multi-Port Dual TCP/UDP Engine
 
 ---
 
-📦 Installation
+🌐 Web Management
 
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/install.sh)
+AETHER includes a powerful browser-based management panel for:
+
+- Tunnel Deployment
+- Tunnel Removal
+- Tunnel Status
+- Service Control
+- Real-Time Monitoring
+- Restart & Recovery
+- Configuration Management
+
+---
+
+📥 Installation
+
+Run the following command:
+
+bash <(curl -fsSL https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh)
 
 or
 
-wget -qO- https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/Mehrabsh0044/AETHER-ELITE-TUNNEL/main/install.sh | bash
 
 ---
 
-🖥️ Requirements
+🖥 Requirements
 
 - Ubuntu 24.04 LTS (Recommended)
 - Root Access
-- IPv4 / IPv6 Support
+- IPv4 / IPv6
 - Internet Connection
 
 ---
@@ -77,41 +87,24 @@ wget -qO- https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/i
 📈 Performance
 
 - Ultra Low Latency
-- Multi-Protocol Architecture
-- Optimized Network Stack
-- Low Memory Consumption
 - High Throughput
-- Production Ready
+- Optimized Kernel Networking
+- Minimal Resource Usage
+- Multi-Protocol Architecture
+- Enterprise Ready
 
 ---
 
-🔐 Security
+❤️ Support
 
-- AEAD Encryption Support
-- Secure Transport Protocols
-- Modern Linux Networking
-- Reliable Service Isolation
+If this project helps you, please consider giving it a ⭐ on GitHub.
 
----
-
-📸 Web Panel
-
-The framework includes an integrated Web Management Panel for monitoring, configuring and managing tunnels from your browser.
+Every Star motivates further development and new features.
 
 ---
 
-🤝 Contributing
+<p align="center">AETHER ELITE TUNNEL FRAMEWORK V23.6
 
-Pull Requests, Issues and Feature Requests are welcome.
+Engineered for Speed. Crafted for Stability. Built for Professionals.
 
----
-
-⭐ Support
-
-If you like this project, don't forget to leave a Star ⭐ on GitHub.
-
----
-
-AETHER ELITE TUNNEL FRAMEWORK V23.6
-
-Engineered for Speed. Built for Stability. Designed for the Future.
+</p>
