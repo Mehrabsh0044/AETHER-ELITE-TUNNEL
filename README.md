@@ -51,13 +51,13 @@ Whether you're building high-speed inter-server connections, bypassing unstable 
 - 🔒 **Shadowsocks Tunnel**  
   AEAD Encrypted Relay
 
-- ⚛️ **Quantum-MAX Tunnel**  
+- ⚛️ **Q-MAX Tunnel**  
   QUIC High-Speed UDP Engine
 
 - 🛡️ **WebSocket Stealth Tunnel**  
   CDN Friendly • No-Ping Transport
 
-- ⚡ **Quantum-gRPC Tunnel**  
+- ⚡ **Q-gRPC Tunnel**  
   Layer-7 gRPC CDN Transport
 
 - 🚨 **Direct UDP Hardened Tunnel**  
