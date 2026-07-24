@@ -870,7 +870,7 @@ EOF
     fi
 }
 
-# --- 9. QUANTUM-gRPC STEALTH TUNNEL ---
+# --- 9. Q-gRPC STEALTH TUNNEL ---
 deploy_grpc_stealth_tunnel() {
     install_deps
     clear
@@ -927,7 +927,7 @@ EOF
 
         cat <<EOF > /etc/systemd/system/grpc-client.service
 [Unit]
-Description=Quantum gRPC Stealth Tunnel Client Engine
+Description=Q gRPC Stealth Tunnel Client Engine
 After=network-online.target
 Wants=network-online.target
 
@@ -2062,9 +2062,9 @@ tunnel_selection_menu() {
     echo -e "  ${GREEN}[4]${NC} 🛰️  ${WHITE}Hans ICMP Tunnel ${CYAN}(Ping Protocol Tunneling)${NC}"
     echo -e "  ${GREEN}[5]${NC} 🌐 ${WHITE}HTTP Encapsulated Tunnel ${CYAN}(HTTP Masking Protocol)${NC}"
     echo -e "  ${GREEN}[6]${NC} 🔒 ${WHITE}Shadowsocks Tunnel ${CYAN}(AEAD Encryption Relay)${NC}"
-    echo -e "  ${GREEN}[7]${NC} ⚛️  ${WHITE}Quantum-MAX Tunnel ${CYAN}(QUIC / Fast UDP Protocol)${NC}"
+    echo -e "  ${GREEN}[7]${NC} ⚛️  ${WHITE}Q-MAX Tunnel ${CYAN}(QUIC / Fast UDP Protocol)${NC}"
     echo -e "  ${GREEN}[8]${NC} 🛡️  ${WHITE}WebSocket Stealth Tunnel ${CYAN}(No-Ping / Bypasses Severe Outages)${NC}"
-    echo -e "  ${GREEN}[9]${NC} ⚡ ${WHITE}Quantum-gRPC Stealth Tunnel ${CYAN}(Ultra Stable / L7 CDN Protocol)${NC}"
+    echo -e "  ${GREEN}[9]${NC} ⚡ ${WHITE}Q-gRPC Stealth Tunnel ${CYAN}(Ultra Stable / L7 CDN Protocol)${NC}"
     echo -e "  ${GREEN}[10]${NC} 🚨 ${WHITE}Direct UDP Hardened Tunnel ${CYAN}(Severe Outage / CDN Independent / Optimized)${NC}"
     echo -e "  ${GREEN}[11]${NC} 💥 ${WHITE}KCP Ultra Outage Tunnel ${CYAN}(Extreme Outage / Anti-Loss / Direct UDP)${NC}"
     echo -e "  ${GREEN}[12]${NC} 🚀 ${WHITE}GOST Turbo Tunnel ${CYAN}(Ultra Low Ping / Multi-Port Dual TCP+UDP Engine)${NC}"
